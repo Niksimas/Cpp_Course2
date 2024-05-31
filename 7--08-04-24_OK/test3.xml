@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="IBM866"?>
+<bus_route>
+    <bus>
+        <name>1</name>
+        <route>1-2-3</route>
+    </bus>
+    <bus>
+        <name>2</name>
+        <route>4</route>
+    </bus>
+</bus_route>

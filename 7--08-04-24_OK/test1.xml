@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="IBM866"?>
+<bus_route>
+    <bus>
+        <name>1</name>
+        <route>1-2-3</route>
+    </bus>
+    <bus>
+        <name>2</name>
+        <route>3-4-5-6</route>
+    </bus>
+    <bus>
+        <name>3</name>
+        <route>5-6-7</route>
+    </bus>
+    <bus>
+        <name>4</name>
+        <route>8-2</route>
+    </bus>
+    <bus>
+        <name>5</name>
+        <route>2-9-10-11</route>
+    </bus>
+    <bus>
+        <name>6</name>
+        <route>10-11-12</route>
+    </bus>
+    <bus>
+        <name>7</name>
+        <route>11-7-3</route>
+    </bus>
+    <bus>
+        <name>8</name>
+        <route>4-9-12</route>
+    </bus>
+    <bus>
+        <name>9</name>
+        <route>5-1-2-3-6-13</route>
+    </bus>
+</bus_route>
