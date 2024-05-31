@@ -191,7 +191,7 @@ public:
 
     void load_file(string * name_file) {
         name_files = *name_file;
-        in_file.open("../7--08-04-24/" + *name_file + ".xml");
+        in_file.open("../7--08-04-24_OK/" + *name_file + ".xml");
         getline(in_file, settings_line);
         if (in_file.is_open()){
             root_node = recursive_read();
