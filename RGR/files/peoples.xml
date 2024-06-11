@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="IBM866" ?>
+<main>
+    <user>
+        <id>1</id>
+        <name>Никита</name>
+        <surname>Ярославцев</surname>
+        <email>test1@gmail.com</email>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Дмитрий</name>
+        <surname>Кулаков</surname>
+        <email>test2@gmail.com</email>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Мария</name>
+        <surname>Губарева</surname>
+        <email>test3@gmail.com</email>
+    </user>
+    <user>
+        <id>4</id>
+        <name>Виктория</name>
+        <surname>Макарова</surname>
+        <email>test4@gmail.com</email>
+    </user>
+    <user>
+        <id>5</id>
+        <name>Андрей</name>
+        <surname>Козюра</surname>
+        <email>test5@gmail.com</email>
+    </user>
+</main>

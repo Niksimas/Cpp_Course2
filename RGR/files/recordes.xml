@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="IBM866" ?>
+<main>
+    <record>
+        <id>0</id>
+        <user_id>4</user_id>
+        <name_project>Первый проект</name_project>
+        <description>описание 1</description>
+    </record>
+    <record>
+        <id>1</id>
+        <user_id>3</user_id>
+        <name_project>Второй проект</name_project>
+        <description>описание 2</description>
+    </record>
+    <record>
+        <id>2</id>
+        <user_id>2</user_id>
+        <name_project>Третий проект</name_project>
+        <description>описание 3</description>
+    </record>
+    <record>
+        <id>3</id>
+        <user_id>1</user_id>
+        <name_project>Четвертый проект</name_project>
+        <description>описание 4</description>
+    </record>
+    <record>
+        <id>4</id>
+        <user_id>0</user_id>
+        <name_project>Пятый проект</name_project>
+        <description>описание 5</description>
+    </record>
+</main>
